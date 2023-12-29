@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da5b4815709b159409641c1974152795, type: 3}
+  m_Name: LevelDataInventory
+  m_EditorClassIdentifier: 
+  levelDatas:
+  - cellsList:
+    - count: 1
+      name: 2
+    tips:
+    - "\u628A\u5438\u5438\u732B\u7EC6\u80DE\u62D6\u5230\u683C\u5B50\u91CC\uFF0C\u70B9\u51FBSTART\uFF0C\u5C06\u98DF\u7269\u5438\u8FC7\u6765\u5427!"
+  - cellsList:
+    - count: 2
+      name: 2
+    tips:
+    - "\u732B\u732B\u53EF\u4EE5\u628A\u5F88\u8FDC\u7684\u98DF\u7269\u5438\u5230\u9762\u524D\uFF0C\u4F46\u8981\u6CE8\u610F\u65B9\u5411\u548C\u987A\u5E8F\u54E6\uFF01"
+  - cellsList:
+    - count: 3
+      name: 2
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 2
+    - count: 1
+      name: 3
+    tips:
+    - "\u63A8\u63A8\u72D7\u7EC6\u80DE\u53EF\u4EE5\u63A8\u52A8\u98DF\u7269"
+  - cellsList:
+    - count: 1
+      name: 2
+    - count: 2
+      name: 3
+    tips: []
+  - cellsList:
+    - count: 2
+      name: 2
+    - count: 2
+      name: 3
+    tips: []
+  - cellsList:
+    - count: 2
+      name: 0
+    - count: 2
+      name: 3
+    tips:
+    - "\u53EF\u4EE5\u7528\u6CE2\u5170\u725B\u6321\u4F4F\u98DF\u7269\u54E6"
+  - cellsList:
+    - count: 1
+      name: 0
+    - count: 1
+      name: 2
+    - count: 3
+      name: 3
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 1
+    - count: 1
+      name: 3
+    tips:
+    - "\u9F99\u662F\u4F1A\u6321\u4F4F\u98DF\u7269\u7684\u574F\u7EC6\u80DE\uFF01\u4E0D\u8FC7cheems\u4F1A\u5E2E\u4F60\u89E3\u51B3\u4ED6"
+    - "cheems\u653E\u7F6E\u8FC7\u5F97\u65B9\u5757\u4E5F\u53EF\u4EE5\u653E\u7F6E\u5176\u4ED6\u7EC6\u80DE\u54E6"
+  - cellsList:
+    - count: 1
+      name: 2
+    - count: 2
+      name: 3
+    - count: 1
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 2
+      name: 2
+    - count: 1
+      name: 3
+    - count: 1
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 0
+    - count: 2
+      name: 2
+    - count: 2
+      name: 3
+    - count: 2
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 0
+    - count: 3
+      name: 3
+    - count: 1
+      name: 2
+    - count: 2
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 0
+    - count: 3
+      name: 3
+    - count: 1
+      name: 2
+    - count: 2
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 2
+      name: 2
+    - count: 1
+      name: 3
+    - count: 1
+      name: 1
+    tips:
+    - "\u4E00\u4E2A\u76EE\u6807\u70B9\u53EA\u80FD\u5BB9\u7EB3\u4E00\u4E2A\u98DF\u7269\u54E6"
+  - cellsList:
+    - count: 2
+      name: 1
+    - count: 4
+      name: 2
+    - count: 1
+      name: 3
+    tips:
+    - "cheems\u53EF\u4EE5\u6D88\u9664\u6240\u6709\u7EC6\u80DE\u54E6\uFF01"
+  - cellsList:
+    - count: 1
+      name: 3
+    - count: 2
+      name: 2
+    - count: 2
+      name: 1
+    tips:
+    - "\u98DF\u7269\u4E4B\u95F4\u4E5F\u53EF\u4EE5\u963B\u6321"
+  - cellsList:
+    - count: 2
+      name: 3
+    - count: 3
+      name: 2
+    - count: 2
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 2
+    - count: 6
+      name: 3
+    - count: 1
+      name: 1
+    tips: []
+  - cellsList:
+    - count: 1
+      name: 1
+    - count: 2
+      name: 2
+    - count: 5
+      name: 3
+    tips: []

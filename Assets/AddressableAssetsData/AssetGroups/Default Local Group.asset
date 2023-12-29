@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 96e406cc6082fba4cb108b55ea5ec1b9
+  m_SerializeEntries:
+  - m_GUID: 71302944d6baf4548a087d4990b58c78
+    m_Address: "Assets/Art/\u6D4B\u8BD5/\u5EFA\u7B51.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36c1f9c5c8c29a1488a75d9d9b8bc22f
+    m_Address: "Assets/Art/\u6D4B\u8BD5/Texture2D"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4277ca9507b8f2c4f8bc9458473b20fa
+    m_Address: "Assets/Art/\u6D4B\u8BD5/Prefabs"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: de28732cfb5f1114b8e88eea960eb4f6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f41325288f315fa47bddb7803ffba79e, type: 2}
+    - {fileID: 11400000, guid: dfa85a8a4d995ad42a85fde05da6f4f3, type: 2}
