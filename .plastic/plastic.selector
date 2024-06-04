@@ -1,4 +1,0 @@
-repository "Cell@wechat_os_qy03ud7s599a2zafdxcq-srd0@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
